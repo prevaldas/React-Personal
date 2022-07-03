@@ -31,7 +31,23 @@ function Slider2() {
               ></img>
             </a>
             <p className="slider-p">
-              MERN ECommerce Website with React & Node.
+              MERN ECommerce WebApp made with React & Node.
+            </p>
+          </section>
+          <section className="one-slide">
+            <h3>evaldOfotO</h3>
+            <a
+              className="project-link"
+              href="https://snazzy-hummingbird-7e9641.netlify.app"
+            >
+              <img
+                className="example-img"
+                src="img/evaldofoto.jpeg"
+                alt="screenshot of page"
+              ></img>
+            </a>
+            <p className="slider-p">
+              Photo gallery made with React and Firebase.
             </p>
           </section>
           <section className="one-slide">
