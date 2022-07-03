@@ -52,7 +52,7 @@ function Slider2() {
             <h3>Today's Goal App</h3>
             <a
               className="project-link"
-              href="https://mysterious-wave-24537.herokuapp.com"
+              href="https://splendorous-tarsier-505742.netlify.app"
             >
               <img
                 className="example-img"
