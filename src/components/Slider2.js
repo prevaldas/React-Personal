@@ -38,7 +38,7 @@ function Slider2() {
             <h3>My ToDo</h3>
             <a
               className="project-link"
-              href="https://young-citadel-94865.herokuapp.com"
+              href="https://serene-shelf-59519.herokuapp.com"
             >
               <img
                 className="example-img"
