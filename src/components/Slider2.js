@@ -22,7 +22,7 @@ function Slider2() {
             <h3>ECommerce WebApp</h3>
             <a
               className="project-link"
-              href="https://friendly-eds-14080.herokuapp.com"
+              href="https://sleepy-falls-84280.herokuapp.com"
             >
               <img
                 className="example-img"
